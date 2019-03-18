@@ -1,0 +1,41 @@
+html{
+    font-family: "Microsoft Yahei", "PingFang SC", Avenir, "Segoe UI", "Hiragino Sans GB", STHeiti, "Microsoft Sans Serif", "WenQuanYi Micro Hei", sans-serif;
+}
+
+
+.container{
+    width: 1308px;
+    margin: auto;
+}
+
+.clearfix:after{
+    content: '.';
+    display: block;
+    clear: both;
+    height: 0;
+    overflow: hidden;
+}
+.clearfix{
+    zoom: 1;
+}
+a{
+    cursor: pointer;
+}
+.gap40{
+    margin-top: 40px;
+}
+.gap10{
+    margin-top: 10px;
+}
+.gap30{
+    margin-top: 30px;
+}
+.gap20{
+    margin-top: 20px;
+}
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
